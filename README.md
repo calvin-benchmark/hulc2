@@ -19,7 +19,7 @@ is capable of completing long-horizon, multi-tier tasks in the real world, while
 ## Installation
 To begin, clone this repository locally
 ```bash
-git clone --recurse-submodules https://github.com/mees/hulc2.git
+git clone --recurse-submodules git@github.com:calvin-benchmark/hulc2.git
 export HULC_ROOT=$(pwd)/hulc2
 
 ```
